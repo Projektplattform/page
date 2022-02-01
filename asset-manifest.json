@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/page/static/css/main.073c9b0a.css",
-    "main.js": "/page/static/js/main.152b0d11.js",
+    "main.css": "/page/static/css/main.0606a1ed.css",
+    "main.js": "/page/static/js/main.1dbd06ab.js",
     "static/js/787.fe233384.chunk.js": "/page/static/js/787.fe233384.chunk.js",
-    "static/media/logo.svg": "/page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/monumentalui.webp": "/page/static/media/monumentalui.62e8f4aadb695fad61f2.webp",
+    "static/media/drawingwebgl.webp": "/page/static/media/drawingwebgl.a76ef14c3b46b450f642.webp",
+    "static/media/taplinguabuy.webp": "/page/static/media/taplinguabuy.f576bcf77309c2146bca.webp",
+    "static/media/latin2.webp": "/page/static/media/latin2.13687f0383fde79f299e.webp",
+    "static/media/polarmenu.webp": "/page/static/media/polarmenu.80dc7847f2439762f9d6.webp",
+    "static/media/TL.webp": "/page/static/media/TL.4a8491b12426242ebca7.webp",
+    "static/media/PM.webp": "/page/static/media/PM.cd943715eea6e4281332.webp",
+    "static/media/M.webp": "/page/static/media/M.bfa61d601aa5548efa0e.webp",
+    "static/media/PPE.jpg": "/page/static/media/PPE.f037180bff00e5f35297.jpg",
+    "static/media/latin1.webp": "/page/static/media/latin1.a14c7fd36ad442697bea.webp",
+    "static/media/drawing1.webp": "/page/static/media/drawing1.ed297ffd23382180f973.webp",
+    "static/media/logosvg.svg": "/page/static/media/logosvg.8d095da2fe711d556c8bc9bc42c31167.svg",
     "index.html": "/page/index.html",
-    "main.073c9b0a.css.map": "/page/static/css/main.073c9b0a.css.map",
-    "main.152b0d11.js.map": "/page/static/js/main.152b0d11.js.map",
+    "main.0606a1ed.css.map": "/page/static/css/main.0606a1ed.css.map",
+    "main.1dbd06ab.js.map": "/page/static/js/main.1dbd06ab.js.map",
     "787.fe233384.chunk.js.map": "/page/static/js/787.fe233384.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.152b0d11.js"
+    "static/css/main.0606a1ed.css",
+    "static/js/main.1dbd06ab.js"
   ]
 }
