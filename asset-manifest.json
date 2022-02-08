@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/page/static/css/main.0606a1ed.css",
-    "main.js": "/page/static/js/main.1dbd06ab.js",
+    "main.css": "/page/static/css/main.edc1ccbf.css",
+    "main.js": "/page/static/js/main.83896c05.js",
     "static/js/787.fe233384.chunk.js": "/page/static/js/787.fe233384.chunk.js",
     "static/media/monumentalui.webp": "/page/static/media/monumentalui.62e8f4aadb695fad61f2.webp",
     "static/media/drawingwebgl.webp": "/page/static/media/drawingwebgl.a76ef14c3b46b450f642.webp",
@@ -16,12 +16,12 @@
     "static/media/drawing1.webp": "/page/static/media/drawing1.ed297ffd23382180f973.webp",
     "static/media/logosvg.svg": "/page/static/media/logosvg.8d095da2fe711d556c8bc9bc42c31167.svg",
     "index.html": "/page/index.html",
-    "main.0606a1ed.css.map": "/page/static/css/main.0606a1ed.css.map",
-    "main.1dbd06ab.js.map": "/page/static/js/main.1dbd06ab.js.map",
+    "main.edc1ccbf.css.map": "/page/static/css/main.edc1ccbf.css.map",
+    "main.83896c05.js.map": "/page/static/js/main.83896c05.js.map",
     "787.fe233384.chunk.js.map": "/page/static/js/787.fe233384.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0606a1ed.css",
-    "static/js/main.1dbd06ab.js"
+    "static/css/main.edc1ccbf.css",
+    "static/js/main.83896c05.js"
   ]
 }
