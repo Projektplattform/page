@@ -38,11 +38,25 @@ function About() {
   return (
     <motion.div ref={ref} animate={animation} id="features">
       <div className="features-model">
-      <p>
-        <img className="about-image" src={featureimage} alt="about"  />
-        
+      <p
+     
+      style={{
+        textAlign: 'center',
+                
+      }}
+      >
+        <img className="about-image" src={featureimage} alt="about" textAlign='center' />
+        &ensp;&ensp;&ensp;&ensp;
         <img className="about-image" src={featureimage2} alt="about"  />
+        <h4 className="about-text" >PROJEKTPLATTFORM ENERGIE + INNOVATION</h4>
+        <h5 className="about-text">Der Technische Universität München
+        in Kooperation mit dem Bayerischen Bauindustrieverband e.V.</h5>
+        <h5 className="about-text">Arcisstr. 21 - 80333 München - Germany
+        </h5>
+
+        
       </p>
+      
       </div>
       <div className="features-text">
         <h2>Über uns</h2>

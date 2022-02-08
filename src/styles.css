@@ -380,6 +380,25 @@ svgline {
   margin-top: 60px;
   margin-bottom: -120px;
 }
+
+.header-text {
+  font-size: 2rem;
+  width: 55%;
+  color: var(--highlight);
+  text-align: left;
+  margin-left: 150px;
+}
+
+
+.about-text {
+  width: 45%;
+  color: var(--highlight);
+  text-align: left;
+  margin-left: 150px;
+}
+
+
+
 #features {
   margin-top: 250px;
   width: 100%;
@@ -436,6 +455,7 @@ svgline {
 }
 .features-model img {
   width: 150px;
+  left: 100px;
   border-radius: 0px;
 }
 
@@ -640,6 +660,14 @@ svgline {
   cursor: pointer;
 }
 
+/**ABOUT**/
+
+.features-model {
+  justify-content: center;
+  align-content: center;
+  border-radius: 20px;
+}
+
 /**CARD**/
 
 .projectlayout {
@@ -649,6 +677,8 @@ svgline {
   margin: auto 8rem auto;
   padding: auto;
 }
+
+
 
 @media (max-width: 1190px) {
   svg {

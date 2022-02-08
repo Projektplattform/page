@@ -11,9 +11,13 @@ function Navbar() {
     <>
       <div>
         <nav>
-          <Link to="/" className="logo">
-            <img src={logo} alt="logo" />
-          </Link>
+            <ul className="menu">
+              <li>
+                <Link to="/" className="logo">
+                  Projektplattform Energie + Innovation
+                </Link>
+              </li>
+            </ul>
           <input className="menu-btn" type="checkbox" id="menu-btn" />
           <label className="menu-btn" for="menu-btn">
             <span className="nav-icon"></span>

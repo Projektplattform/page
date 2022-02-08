@@ -54,37 +54,46 @@ function Header() {
           initial={{ opacity: 0 }}
         >
           <a
-            href="https://drive.google.com/file/d/1y36N0bhxYZi4PviF8IaO1ATcvIcGBPBI/view"
+            href="https://www.ed.tum.de/ppe/home/"
             target="_blank"
             rel="noopener noreferrer"
             className="cv-btn"
           >
-            View CV
+            PPE+I &nbsp; <sub><small>[TUM]</small></sub>
           </a>
           <a
-            href="mailto:info@ppe.tum.de"
+            href="https://www.bauindustrie-bayern.de/"
             target="_blank"
             rel="noopener noreferrer"
             className="cv-btn1"
           >
-            Contact
+            BBIV
           </a>
         </motion.div>
-        <motion.img
-          src={me}
-          width="600px"
-          height="100px"
+
+        <motion.div
+          className="header-text"
           animate={{
             opacity: 1,
-            y: -100,
-            x: 650
+            y: -200,
+            x: 650,
+          }}
+          style={{
+            fontStyle: "italic",
           }}
           transition={{ ease: "easeInOut", delay: 1, duration: 0.5 }}
-          initial={{ opacity: 0, y: -200, x: 650 }}
-          className="video"
+          initial={{ opacity: 0, y: -200, x: 1350 }}
           loop
-        />
+        >
+          <p>
+          <br/> PROJEKTPLATTFORM
+          <br/>E N E R G I E +
+          <br/>I&nbsp;&nbsp;N&nbsp;&nbsp;N&nbsp;&nbsp;O&nbsp;&nbsp;V&nbsp;&nbsp;A&nbsp;&nbsp;T&nbsp;&nbsp;I&nbsp;&nbsp;O&nbsp;&nbsp;N
+          </p>
+        </motion.div>
+
       </div>
+      
     </motion.div>
   );
 }
